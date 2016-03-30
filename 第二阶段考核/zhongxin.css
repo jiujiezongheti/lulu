@@ -1,6 +1,5 @@
 @charset "utf-8";
 p{margin:0px;}
-img{border: 0;}
 .tuichu{display:inline-block;
 		font-size:12px;
 		font-family:Tahoma, Geneva, sans-serif,"宋体";
@@ -40,26 +39,15 @@ img{border: 0;}
 			box-shadow:2px 2px 2px #f0f0f0;
 }
 .left_bottom p{margin:8px 0 12px 11px;}
+.left_bottom hr{border:none;
+				border-top:1px solid #eee;
+				margin-bottom:0px;
+				}
 .yiny{float:right;}
-
-/*修改部分*/
-.left_bottom a:hover{color: #f60;}
-.left_bottom dl{
-	border-top: 1px solid #eee;
-	margin-top: 3px;
-	margin-bottom: 0;
-}
-.left_bottom .dl2{margin-top: 4px;}
-.left_bottom .dl3{height: 105px;margin-top: 4px;}
-.left_bottom dt{color: #999;font-family: "微软雅黑";margin: 3px 0 7px 10px;font-size: 14px;}
-.left_bottom dd{margin-left: 10px;line-height: 30px;}
-.left_bottom a{color:#666666;text-decoration:none;}
-
-
-/*.left_bottom dt{font-size:14px;
+.left_bottom dt{font-size:14px;
 				font-family:"微软雅黑";
 				color:#999999;
-				margin:3px 0 15px 10px;
+				margin:3px 0 14px 10px;
 				
 }
 .left_bottom dl a{color:#666666;
@@ -78,17 +66,7 @@ img{border: 0;}
 				}
 .left_bottom dd .leftlast{font-size:12px;
 					font-family:"宋体";
-					margin:2px 0 14px 10px;}*/
-
-
-
-
-
-
-
-
-
-
+					margin:2px 0 14px 10px;}
 .fengex{width:1190px;
 		margin:0 auto;
 }
