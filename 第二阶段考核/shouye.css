@@ -1,0 +1,20 @@
+@charset "utf-8";
+dl,dt,dd{margin:0;}
+a{text-decoration:none;}
+.span1{width:1190px;
+	   height:365px;
+	   font-size:12px;
+	   }
+.span1 dl{width:188px;border-left:1px solid #ccc;border-right:1px solid #ccc;border-bottom:1px solid #efefef;transition:background 0.5s;}
+.span1 div{float:left;}
+.span1 dt{font-family:"微软雅黑";
+	      font-weight:bolder;
+		  padding:7px 0 16px 8px;
+		  }
+.span1 dt a{color:#444444;margin-right:10px;}
+.span1 dd{font-family:"宋体";padding:0 0 7px 8px;}
+.span1 dd a{color:#888;margin-right:10px;}
+.span1 .span1dl{border-bottom:1px solid #ccc;}
+.span1 dl:hover{background-color:#b89987;}
+.span1 dl:hover a{color:#fff;}
+.span1 img{float:right;}
