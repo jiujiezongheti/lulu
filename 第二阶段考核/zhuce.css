@@ -1,0 +1,58 @@
+@charset "utf-8";
+p{margin:0;}
+.center{width:1184px;
+		margin:0 auto;
+		margin-top:12px;
+		border:1px solid #d7d7d7;
+		box-shadow:0 0 5px #d7d7d7;	
+}
+.center_p{
+		  border-bottom: 1px dotted #ededed;
+		  height:40px;
+   		  line-height:40px; 
+		  font-family:"微软雅黑";	
+		  margin-bottom:31px;
+}
+.center_p_sp1{font-size:18px;
+			  margin-left: 10px;
+			  margin-top: 10px;
+			  color: #3164af;	  
+}
+.center_p_sp2{font-size:12px;
+			  margin-left: 10px;color: #d8d8d8;
+			  }
+.center_xinxi{text-align:right;
+			  margin-right:780px;
+}
+.center_xinxi p{font-family:Tahoma, Geneva, sans-serif,"宋体";
+				font-size:12px;
+				margin:20px 0 23px 0;
+				color:#666666;
+}
+.center_xinxi p span{display:inline-block;
+					 margin-right:2px;
+	color:#ff717f;}
+.it1{width:218px;
+		height:23px;
+		padding-top:2px;
+		margin-left:12px;
+		margin-top:1px;
+		border:none;
+		border-left:1px solid #999999;
+		border-top:1px solid #999999;
+		border-right:1px solid #e1e1e1;
+		border-bottom:1px solid #e1e1e1;
+		box-shadow:inset 1px 2px 2px #dcdcdc;
+		border-radius:3px;
+}
+.xinbie{padding-right:150px;}
+.radio1{width:12px;height:12px;
+	   	border:none;
+		margin-left:12px;
+		box-shadow:none;
+}
+.radio2{width:12px;height:12px;
+	   	border:none;
+		box-shadow:none;
+}
+.center_xinxi.xingming{margin-top:10px;}
