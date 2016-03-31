@@ -3,8 +3,10 @@ p{margin:0;}
 .center{width:1184px;
 		margin:0 auto;
 		margin-top:12px;
+		margin-bottom:12px;
 		border:1px solid #d7d7d7;
 		box-shadow:0 0 5px #d7d7d7;	
+		position:relative;
 }
 .center_p{
 		  border-bottom: 1px dotted #ededed;
@@ -32,7 +34,7 @@ p{margin:0;}
 .center_xinxi p span{display:inline-block;
 					 margin-right:2px;
 	color:#ff717f;}
-.it1{width:218px;
+.it1{   width:218px;
 		height:23px;
 		padding-top:2px;
 		margin-left:12px;
@@ -45,14 +47,88 @@ p{margin:0;}
 		box-shadow:inset 1px 2px 2px #dcdcdc;
 		border-radius:3px;
 }
+.it2{
+	 	width:128px;
+		height:23px;
+		padding-top:2px;
+		margin:1px 8px 0 12px;
+		border:none;
+		border-left:1px solid #999999;
+		border-top:1px solid #999999;
+		border-right:1px solid #e1e1e1;
+		border-bottom:1px solid #e1e1e1;
+		box-shadow:inset 1px 2px 2px #dcdcdc;
+		border-radius:3px;
+	}
 .xinbie{padding-right:150px;}
-.radio1{width:12px;height:12px;
+.radio1{margin:0;
+		width:13px;height:13px;
 	   	border:none;
 		margin-left:12px;
 		box-shadow:none;
+		vertical-align:bottom;
 }
-.radio2{width:12px;height:12px;
+.radio2{margin:0 0 0 4px;
+		width:13px;height:13px;
 	   	border:none;
 		box-shadow:none;
+		vertical-align:bottom;
 }
-.center_xinxi.xingming{margin-top:10px;}
+.center_xinxi .dianziyoujian{margin:20px 0 16px 0;}
+.center_xinxi .xingming{margin:0;}
+.center_xinxi .xingbie{margin:18px 166px 0 0px;}
+.center_xinxi .dianhua{margin:16px 0 0 0;}
+.center_xinxi .shouji{margin:10px 0 0 0;}
+.center_xinxi .yanzheng{margin-top:17px; margin-bottom:12px;}
+.yanzheng img{vertical-align:bottom;}
+.center_xinxi .anniu{margin:0px;}
+.anniu input{background:#fc560d;width:160px;height:35px;color:#fff;border:none;margin:0 60px 0 0 ;font-family:"微软雅黑";cursor:pointer;font-size:14px;}
+.center_xinxi .zhucexieyi{margin:20px 172px 12px 0;}
+.wenbenkuang{
+	width:442px;
+	height:199px;
+	margin-left:184px;
+	margin-bottom:20px;
+	border:1px solid #e6e6e6;
+	color:#999999;
+	font-size:12px;
+	overflow-y: scroll;
+	line-height:24px;
+	padding:1px 8px 0 4px;
+	}
+.center_right_float{width:300px;
+                    height:108px;
+					background:#fff8db;
+					border-left:2px solid #f2f2f2;
+					border-bottom:2px solid #f2f2f2;
+					position:absolute;
+					top:41px;
+					right:0px;					
+}
+.center .center_right_float .tou_center_right_bottomp1{margin-left:20px;margin-top:21px;font-size:16px;color:#bd5613;}
+.center .center_right_float .tou_center_right_bottomp2{margin-left:20px;padding-top:1px;}
+.center .center_right_float .tou_center_right_bottomp2 a{color:#bd5613;text-decoration:none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
